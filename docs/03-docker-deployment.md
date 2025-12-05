@@ -4,7 +4,7 @@
 Containerized and deployed a lightweight and scalable web application using Docker.
 
 ## Architecture Diagram
-![Docker Deployment Workflow](./assets/docker.png)
+![Docker Deployment Workflow](../assets/docker.png)
 
 ## Responsibilities
 - Built custom Dockerfile for app environment

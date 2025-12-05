@@ -4,7 +4,7 @@
 Hosted a secure and high-performance static website utilizing AWS global edge network.
 
 ## Architecture Diagram
-![CloudFront + S3 Hosting](./assets/cloudfront.png)
+![CloudFront + S3 Hosting](../assets/cloudfront.png)
 
 ## Responsibilities
 - Enabled static hosting on S3 Bucket

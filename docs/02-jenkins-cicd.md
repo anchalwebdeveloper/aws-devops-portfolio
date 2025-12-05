@@ -4,7 +4,7 @@
 Configured a fully automated build and deployment pipeline enabling rapid and error-free releases.
 
 ## Architecture Diagram
-![Jenkins CI/CD Pipeline](./assets/cicd.png)
+![Jenkins CI/CD Pipeline](../assets/cicd.png)
 
 ## Responsibilities
 - Installed & configured Jenkins on EC2

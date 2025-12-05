@@ -4,7 +4,7 @@
 Designed a fault-tolerant and scalable web application using Multi-AZ AWS infrastructure to ensure high uptime.
 
 ## Architecture Diagram
-![AWS 2-Tier Architecture](./assets/Architecture_Diagram.png)
+![AWS 2-Tier Architecture](../assets/Architecture_Diagram.png)
 
 ## Responsibilities
 - Designed VPC network with public/private subnets across 2 Availability Zones
